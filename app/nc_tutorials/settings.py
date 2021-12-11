@@ -14,6 +14,7 @@ from pathlib import Path
 from decouple import config
 from django.conf.urls.static import static
 from django.conf import settings
+import os
 
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
